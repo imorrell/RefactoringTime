@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.0\RefactoringTime.exe
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.0\RefactoringTime.deps.json
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.0\RefactoringTime.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.0\RefactoringTime.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.0\RefactoringTime.dll
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.0\RefactoringTime.pdb
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.0\RefactoringTime.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.0\RefactoringTime.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.0\RefactoringTime.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.0\RefactoringTime.dll
+C:\Users\Prophesy\Documents\C#2019\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.0\RefactoringTime.pdb
